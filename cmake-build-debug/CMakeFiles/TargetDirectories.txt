@@ -1,0 +1,3 @@
+C:/Users/DreamOnline/CLionProjects/Course_Alogrithms_Dr.mostfa/cmake-build-debug/CMakeFiles/Course_Alogrithms_Dr_mostfa.dir
+C:/Users/DreamOnline/CLionProjects/Course_Alogrithms_Dr.mostfa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DreamOnline/CLionProjects/Course_Alogrithms_Dr.mostfa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
